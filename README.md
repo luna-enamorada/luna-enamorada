@@ -3,7 +3,7 @@
 Thanks for checking out my github! ♡ ![Visitors](https://api.visitorbadge.io/api/visitors?path=luna-enamorada&countColor=%23f47373)
 
 
-### Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
