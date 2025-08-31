@@ -16,7 +16,3 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux&logoColor=f7a9bc)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=f7a9bc)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=f7a9bc)
-
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=agzjndhfitk8tky2frduh5q4d">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=agzjndhfitk8tky2frduh5q4d" alt="Data Card for Spotify">
-</a>
